@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td><img a="https://user-images.githubusercontent.com/23157710/147143534-d5fed733-6746-4868-a727-503cf138e9db.gif"></td>
-    <td><img a="https://user-images.githubusercontent.com/23157710/147143564-11b9c2ad-1be2-4cfd-ae7f-227da96158e3.gif"></td>
+    <td><img src="https://user-images.githubusercontent.com/23157710/147143534-d5fed733-6746-4868-a727-503cf138e9db.gif"></td>
+    <td><img src="https://user-images.githubusercontent.com/23157710/147143564-11b9c2ad-1be2-4cfd-ae7f-227da96158e3.gif"></td>
   </tr>
  </table>
   
